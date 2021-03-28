@@ -1,2 +1,7 @@
 # hello-world
-Just a new repository
+Hi humans!
+
+Just a new barnch!
+
+Welcome!
+
